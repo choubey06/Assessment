@@ -1,0 +1,23 @@
+li {
+    display: inline;
+    padding: 30px;
+    color: white;
+}
+.background{
+    background-color: rgb(216, 223, 226);
+}
+.head{
+    display:flex;
+    flex-direction:row;
+}
+.nav{
+background-color: black;
+}
+.img{
+    height: 80px;
+}
+.title{
+    font-size: 30px;
+    padding-left:50px;
+    padding-top: 20px;
+}
